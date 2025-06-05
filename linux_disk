@@ -1,11 +1,3 @@
-## Verify the disk space on server and adjust (In this example it will be 2 TB disk space setup)
-
-Login to ubuntu server with the user created in above step (ocpadmin)
-
-```sh
-ssh ocpadmin@your_server_ip_address
-```
-
 login with sudo access
 
 ```sh
